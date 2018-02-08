@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "An amazon-like app where a customer can buy stored inventory",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aahmed10"
+  },
+  "author": "adeel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aahmed10"
+  },
+  "homepage": "",
+  "dependencies": {
+    "inquirer": "^3.0.5",
+    "mysql": "^2.13.0"
+  }
+}
